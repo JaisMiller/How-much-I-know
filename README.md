@@ -11,7 +11,7 @@ Testing how much I know about coding
 
 <p>These are some of the simple commands I know.<p>
 <u1>
-<li>The <p> element lets you create a paragraph.</li>
+<li>The <p></p> element lets you create a paragraph.</li>
 <li>The <title> element lets you create a title that people will see when they click on the link (I think)</li>
 <li>The <!DOCTYPEhtml> element always is your first line of code on your website</li>
 <li>The <img/> element lets put images on your website page, but there are some more codes involved in the <img/> element. And, the img element is a self closing command, so there will be no closing element at the end.</li>
