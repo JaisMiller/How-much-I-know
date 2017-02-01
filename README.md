@@ -23,4 +23,4 @@ Testing how much I know about coding
 
 <p>Here is one of the main sources of my code learning</p>
 
-<a href=https://www.codecademy.com/learn target="_blank">Code Acedemy
+<a href="https://www.codecademy.com/target="_blank">Code Acedemy
