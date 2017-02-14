@@ -20,5 +20,5 @@ Testing how much I know about coding
 </u1>
 <p> These are just some of the commands I know.</p>
  <a href="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiJlsST0eDRAhUEjVQKHck4AfsQjRwIBw&url=http%3A%2F%2Fburning-glass.com%2Fresearch%2Fcoding-skills%2F&psig=AFQjCNEmlFg8A4sb91V2I-RhPzGtK96iNA&ust=1485548371205098" target="_blank">Learn More</a>
-
+<P>I like coding alot and hope to maybe have a future in it. I still have a long way to go before I master it, but I hope one day I will be able to create websites and games, coding is very fun, it's a great thing to do when you grow up, and I want to get good at it.</p>
 
